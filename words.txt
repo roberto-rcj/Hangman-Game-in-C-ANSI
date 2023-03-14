@@ -1,0 +1,11 @@
+10
+apple
+strawberry
+pineapple
+banana
+blueberry
+lemon
+passion fruit
+lettuce
+carrot
+orange
